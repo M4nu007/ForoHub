@@ -44,11 +44,11 @@ realizar las demas request.
 4. ejecute el archivo ForoHubAplication
 
 ## Esquema de la base de datos:
-![imágenes del esquema de la  bd](src/main/resources/imagenes/imagen3.PNG)
+![imágenes del esquema de la  bd](src/main/resources/imagenes/imagen3.png)
 
 ## EndPoints:
-![imágenes de los endpoints](src/main/resources/imagenes/imagen1.PNG)
-![imágenes de los endpints](src/main/resources/imagenes/imagen2.PNG)
+![imágenes de los endpoints](src/main/resources/imagenes/imagen1.png)
+![imágenes de los endpints](src/main/resources/imagenes/imagen2.png)
 
 
 ## Autor: 👨‍💻
