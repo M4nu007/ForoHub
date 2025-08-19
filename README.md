@@ -41,15 +41,14 @@ realizar las demas request.
 1. Descargur o clone el proyecto
 2. Abra su IDE de preferencia y cargue el proyecto.
 3. configure su archivo application.properties
-4. configura tu archivo aplication.properties
-5. ejecute el archivo ForoHubAplication
+4. ejecute el archivo ForoHubAplication
 
 ## Esquema de la base de datos:
-![imágenes del esquema de la  bd](/src/main/resources/imagenes/imagen3.PNG)
+![imágenes del esquema de la  bd](src/main/resources/imagenes/imagen3.PNG)
 
 ## EndPoints:
-![imágenes de los endpoints](/src/main/resources/imagenes/imagen1.PNG)
-![imágenes de los endpints](/src/main/resources/imagenes/imagen2.PNG)
+![imágenes de los endpoints](src/main/resources/imagenes/imagen1.PNG)
+![imágenes de los endpints](src/main/resources/imagenes/imagen2.PNG)
 
 
 ## Autor: 👨‍💻
